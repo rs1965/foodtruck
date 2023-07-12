@@ -1,4 +1,5 @@
 #### Food Truck Service
+##
 ## Food Truck Service implemented using Springboot & jdk 17 on Intellij IDE
 
 ## Service returns all food trucks
