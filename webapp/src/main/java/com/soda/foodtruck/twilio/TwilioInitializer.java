@@ -1,5 +1,6 @@
-package org.example;
+package com.soda.foodtruck.twilio;
 
+import com.soda.foodtruck.configuration.TwilioConfiguration;
 import com.twilio.Twilio;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

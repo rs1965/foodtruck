@@ -1,5 +1,8 @@
-package org.example;
+package com.soda.foodtruck.twilio;
 
+import com.soda.foodtruck.configuration.TwilioConfiguration;
+import com.soda.foodtruck.model.sms.SmsRequest;
+import com.soda.foodtruck.model.sms.SmsSender;
 import com.twilio.rest.api.v2010.account.Message;
 import com.twilio.rest.api.v2010.account.MessageCreator;
 import com.twilio.type.PhoneNumber;
